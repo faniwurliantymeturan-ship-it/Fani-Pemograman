@@ -10,7 +10,7 @@ import re
 import tkinter as tk
 import tkinter.font as tkfont
 
-# ---------- Warna (tema cream) ----------
+# ---------- Warna (tema cream) ---------
 CREAM = "#FFF3D6"        # latar utama
 CREAM_TERANG = "#FFFBEF"  # tombol angka
 CREAM_GELAP = "#F2DDAE"   # tombol operator
