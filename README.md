@@ -2,7 +2,7 @@ Kalkulator Desktop - warna cream
 Fitur : + - x / , akar, pangkat, per (1/x), modulo, ( ) [ ] { }, sin, cos, tan, pi
         Mode DEG/RAD, bisa diperkecil, diperbesar (maximize) dan ditutup.
 Jalankan: python kalkulator.py
-"""
+
 import ast
 import math
 import operator
